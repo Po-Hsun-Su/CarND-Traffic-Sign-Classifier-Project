@@ -5,3 +5,5 @@ models
 *.swp
 *.p
 __pycache__
+new_data/GTSRB/*
+.sync-config.cson
